@@ -18,13 +18,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manishmcu" alt="manishmcu" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://manishmcu.github.io/Personal-Website/](https://manishmcu.github.io/Personal-Website/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/manish-pakhira-bb7333171/](https://www.linkedin.com/in/manish-pakhira-bb7333171/)
 
 - 💬 Ask me about **Robotics, Automation, Artificial Intelligence and Machine Learning, Web Development**
 
 - 📫 How to reach me **manish.pakhira@gmail.com**
 
-- 📄 Know about my experiences [https://manishmcu.github.io/Personal-Website/](https://manishmcu.github.io/Personal-Website/)
+- 📄 Know about my experiences [https://manish-pakhira.my.canva.site/](https://manish-pakhira.my.canva.site/)
 
 - ⚡ Fun fact **if my code works don't ask me how.**
 
