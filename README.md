@@ -9,7 +9,7 @@
 
 <div align="center">
 <a href="https://manishmcu.github.io/Personal-Website/">
-  <img src="https://github.com/manishmcu/manishmcu/blob/main/exyn-nexys-fly-through-dust.gif" alt="Coding" width="600">
+  <img src="https://github.com/manishmcu/manishmcu/blob/main/exyn-nexys-fly-through-dust.gif" alt="Coding" width="500">
 </a>
 </div>
 
