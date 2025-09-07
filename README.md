@@ -1,15 +1,15 @@
 <div align="center">
 <a href="https://manishmcu.github.io/Personal-Website/">
-  <img src="https://github.com/manishmcu/manishmcu/blob/main/exyn-nexys-fly-through-dust.gif" alt="Master" width="600">
+  <img src="https://github.com/manishmcu/manishmcu/blob/main/git_profile.gif" alt="Master" width="600">
 </a>
 </div>
 
 <h1 align="center">Hi 👋, I'm MANISH PAKHIRA</h1>
-<h3 align="center">An Ardent Roboticist </h3>
+<h3 align="center"> A R&D Engineer | Robotics | Avionics </h3>
 
 <div align="center">
 <a href="https://manishmcu.github.io/Personal-Website/">
-  <img src="https://github.com/manishmcu/manishmcu/blob/main/git_profile.gif" alt="Coding" width="400">
+  <img src="https://github.com/manishmcu/manishmcu/blob/main/exyn-nexys-fly-through-dust.gif" alt="Coding" width="400">
 </a>
 </div>
 
@@ -18,7 +18,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manishmcu" alt="manishmcu" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/manish-pakhira-bb7333171/](https://www.linkedin.com/in/manish-pakhira-bb7333171/)
+- 👨‍💻 All of my projects are available at [https://github.com/manishmcu](https://github.com/manishmcu)
 
 - 💬 Ask me about **Robotics, Automation, Artificial Intelligence and Machine Learning, Web Development**
 
