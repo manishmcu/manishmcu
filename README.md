@@ -9,7 +9,7 @@
 
 <div align="center">
 <a href="https://manishmcu.github.io/Personal-Website/">
-  <img src="https://github.com/manishmcu/manishmcu/blob/main/exyn-nexys-fly-through-dust.gif" alt="Coding" width="400">
+  <img src="https://github.com/manishmcu/manishmcu/blob/main/exyn-nexys-fly-through-dust.gif" alt="Coding" width="600">
 </a>
 </div>
 
@@ -20,7 +20,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/manishmcu](https://github.com/manishmcu)
 
-- 💬 Ask me about **Robotics, Automation, Artificial Intelligence and Machine Learning, Web Development**
+- 💬 Ask me about **Robotics, Automation, Navigation, UAV, Avionics, DGCA-Certification, BIS-Standard, Product Quality**
 
 - 📫 How to reach me **manish.pakhira@gmail.com**
 
