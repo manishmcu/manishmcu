@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://manishmcu.github.io/Personal-Website/">
-  <img src="https://github.com/manishmcu/robotgif/blob/main/SOFTBANK%20ROBOTICS%20_%20Partner%20Program.gif" alt="Master" width="600">
+  <img src="https://github.com/manishmcu/manishmcu/blob/main/exyn-nexys-fly-through-dust.gif" alt="Master" width="600">
 </a>
 </div>
 
@@ -9,7 +9,7 @@
 
 <div align="center">
 <a href="https://manishmcu.github.io/Personal-Website/">
-  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Coding" width="400">
+  <img src="https://github.com/manishmcu/manishmcu/blob/main/git_profile.gif" alt="Coding" width="400">
 </a>
 </div>
 
